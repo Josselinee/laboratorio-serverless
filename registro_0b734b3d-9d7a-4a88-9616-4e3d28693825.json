@@ -1,0 +1,17 @@
+{
+    "nombre": "Josseline Lissette",
+    "apellido": "Romero Cuellar",
+    "email": "josselineromero175@gmail.com",
+    "token": "0b734b3d-9d7a-4a88-9616-4e3d28693825",
+    "fecha_utc": "2026-11-14T22:03:16.820141+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "af87d98c61a1",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "953035a23cb688412fb8f26e35024f71b027ff24db23cc4c5ff2042d79d55900"
+}
